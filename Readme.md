@@ -28,5 +28,3 @@ Estudante de engenharia da cumputação no oitavo período
 <a href="http://www.github.com/L-student"><img src="https://github-readme-stats.vercel.app/api?username=L-student&show_icons=true&hide=issues,&count_private=true&title_color=6366f1&text_color=ec4899&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="L-student's GitHub stats" /></a>
 
 <a href="http://www.github.com/L-student"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L-student&stroke=ec4899&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ec4899&currStreakLabel=6366f1&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
-
-<a href="http://www.github.com/L-student"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=L-student&bg_color=0f172a&color=ec4899&line=0891b2&point=ec4899&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
